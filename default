@@ -1,0 +1,9 @@
+{
+    "enabled":true,
+    "opacity": 100,
+    "mode":"transparent",
+    "color": "#FFFFFF",
+    "aspectRatio": "",
+    "fitToResult": false,
+    "padding": 5
+}
