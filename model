@@ -1,0 +1,41 @@
+{
+	"fileName": "Untitled",
+	"image": {
+		"enabled": true,
+		"opacity": 100
+	},
+	"scribble": {
+		"enabled": true,
+		"opacity": 60
+	},
+	"matting": {
+		"enabled": true,
+		"opacity": 60
+	},
+	"mask": {
+		"enabled": true,
+		"opacity": 60,
+		"feathering": 0,
+		"offset": 0,
+		"smoothing": 0
+	},
+	"foreground": {
+		"enabled": true,
+		"opacity": 100
+	},
+	"background": {
+		"enabled": true,
+		"opacity": 100,
+		"mode": "transparent",
+		"color": "#FFFFFF",
+		"aspectRatio": "",
+		"fitToResult": false,
+		"padding": 10
+	},
+	"shadow": {
+		"enabled": false,
+		"opacity": 70,
+		"blurRadius": 10,
+		"color": "#000000"
+	}
+}
