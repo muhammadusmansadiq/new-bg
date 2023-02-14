@@ -31,11 +31,5 @@
 		"aspectRatio": "",
 		"fitToResult": false,
 		"padding": 10
-	},
-	"shadow": {
-		"enabled": false,
-		"opacity": 70,
-		"blurRadius": 10,
-		"color": "#000000"
 	}
 }
